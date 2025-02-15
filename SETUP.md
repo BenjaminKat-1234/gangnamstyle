@@ -1,0 +1,19 @@
+**SETUP INSTRUCTIONS:**
+
+STEP 1: GO TO THE DISCORD DEVELOPER PORTAL - https://discord.com/developers
+
+STEP 2: LOGIN WITH DISCORD
+
+STEP 3: CLICK NEW APPLICATION AND NAME YOUR BOT
+
+STEP 4: CLICK ON THE 'bot' TAB
+
+STEP 5: CLICK 'reset token' AND COPY THE TOKEN ( DO NOT SHARE THIS WITH ANYONE )
+
+STEP 6: COPY THE CODE (or download the file) FROM 'main.py' AND PASTE IT (or upload it) INTO VSCODE (or any other coding website/app)
+
+STEP 7: PASTE YOUR BOT'S TOKEN INTO WHERE IT SAYS 'your_token_here'
+
+STEP 8: RUN THE CODE
+
+YAY!
